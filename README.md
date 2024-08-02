@@ -1,33 +1,45 @@
-# Bionic Reading Extension
+# Read Assist
 
-Enhance your reading experience with Bionic Reading. This Chrome extension applies the Bionic Reading technique to the text on web pages, making it easier to read and process information.
+**Read Assist** is a cutting-edge Chrome extension that transforms your reading experience using the Bionic Reading technique. By dynamically highlighting key text segments, Read Assist boosts readability and accelerates information processing.
+
+## Tools/Technologies
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+## Features
+
+- **Bionic Reading Enhancement**: Leverage pioneering Bionic Reading methodologies to enhance reading efficiency through innovative text enhancement and speed-reading capabilities.
+- **Customizable Text Focus**: Personalize your reading experience with adjustable bold emphasis on text, allowing you to focus on what's important to you.
+- **Dark Mode**: Switch to a stylish dark mode for optimal readability in low-light settings, catering to diverse user preferences and improving accessibility.
 
 ## Installation
 
-Follow these steps to install the Bionic Reading extension manually:
+Ready to start? Follow these steps to manually install Read Assist:
 
-### Step 1: Download the extension files
+### 1. Download the Extension Files
 
-- Click the green "Code" button on the repository's main page, then click "Download ZIP" to download the extension files as a ZIP archive.
-- Extract the contents of the ZIP file to a folder on your computer.
+1. Head over to the [Read Assist repository](https://github.com/aryan-kundu/ReadAssist-Chrome.git) on GitHub.
+2. Click the green **Code** button and choose **Download ZIP** to get the extension files.
+3. Extract the ZIP archive to a folder on your computer.
 
-### Step 2: Load the extension in Chrome
+### 2. Load the Extension in Chrome
 
-- Open the Google Chrome browser.
-- Navigate to the Extensions page by clicking the three-dot menu in the top-right corner, selecting "More tools," and then "Extensions."
-- Enable "Developer mode" by toggling the switch in the top-right corner of the Extensions page.
-- Click the "Load unpacked" button, navigate to the folder containing the extracted extension files, and select the folder.
+1. Open Google Chrome.
+2. Go to the Extensions page by clicking the three-dot menu in the top-right corner, selecting **More tools**, and then **Extensions**.
+3. Turn on **Developer mode** using the toggle switch in the top-right corner.
+4. Click **Load unpacked** and select the folder where you extracted the extension files.
 
-The Bionic Reading extension is now installed and ready to use.
+Voila! Read Assist is now installed and ready to elevate your reading game.
 
 ## Usage
 
-To use the Bionic Reading extension:
+Get started with Read Assist:
 
-1. Click on the extension icon in the Chrome toolbar to open the popup.
-2. Toggle the "Activate Bionic Reading" switch to enable or disable the Bionic Reading effect on the current web page.
-3. Adjust the "Focus Length" slider to change the length of bolding in the text.
+1. Click the Read Assist icon in the Chrome toolbar to open the popup menu.
+2. Toggle the **Activate Read Assist** switch to enable or disable the Bionic Reading effect on the current page.
+3. Adjust the **Focus Length** slider to set your preferred amount of bold emphasis.
 
-## Support and Contribution
 
-If you encounter any issues or would like to suggest improvements, please [open an issue](https://github.com/edwardsaunders7/BionicReaderChromeExtension/issues) on GitHub. Contributions are welcome, and you can submit a pull request with your changes.
+Enjoy an enhanced reading experience with Read Assist!
